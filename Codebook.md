@@ -61,6 +61,7 @@ The complete list of variables of each feature vector is available in 'features.
 
 Below is the list of variables that are analyzed in the final table with tidy data
 
+
 1	activity
 2	subject
 3	tBodyAcc-mean()-X
@@ -143,7 +144,9 @@ Below is the list of variables that are analyzed in the final table with tidy da
 80	fBodyBodyGyroJerkMag-std()
 81	fBodyBodyGyroJerkMag-meanFreq()
 
+
 The following variables are used in the script:
+
 
 x_test : Test set, loaded in R
 y_test : Test label, loaded in R
